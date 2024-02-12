@@ -26,8 +26,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vscode,postman,figma,firebase,html,css,discord,java,js,mysql,github,eclipse,firebase,idea,kotlin,mysql,vite&perline=15" />
   </a>
+
+   <!--- git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode-->
 </p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> <b> Github Stats </b>
