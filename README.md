@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=500&color=F7A94E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Sarindu+Wijekoon;Full-stack+developer+;Undergraduate+Software+Engineer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=500&color=F7A94E&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Sarindu+Wijekoon;Full-stack+developer+;Undergraduate+Software+Engineer"></a>
    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> </p>
