@@ -20,15 +20,16 @@
 - ⚡ Fun fact: ...
 
 <br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> <b> Languages and Tools </b>
+<br>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vscode,postman,figma,firebase,html,css,discord,java,js,mysql,github,eclipse,firebase,idea,kotlin,mysql,vite&perline=15" />
   </a>
-
    <!--- git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode-->
 </p>
 
