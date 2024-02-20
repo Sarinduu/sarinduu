@@ -117,7 +117,7 @@
       </td>
 
   <td width="400" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarinduu&theme=darcula&hide_border=false&langs_count=10"/>
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sariu&theme=darcula&hide_border=false&langs_count=10"/>
       </td>
     </tr>
   </table>
