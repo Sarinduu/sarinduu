@@ -71,7 +71,7 @@
 <a href="https://twitter.com" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
 &emsp;
-<a href="https://www.instagram.com" target="blank">
+<a href="https://www.instagram.com/sarindu._?igsh=MXU1dTh2MmcwMnQzZg%3D%3D&utm_source=qr" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 &emsp;
 <a href="https://discord.gg" target="blank">
