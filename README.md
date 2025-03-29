@@ -14,7 +14,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on a institute management system
+- 🔭 I’m currently working on a aquasafe web application
 <br>
 
 - 🌱 I’m currently learning python
