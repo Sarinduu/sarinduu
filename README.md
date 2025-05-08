@@ -14,10 +14,10 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on a aquasafe web application
+- 🔭 I’m currently working on a web-based game development
 <br>
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning next.js
 <br>
 
 - 📫 How to reach me: sarinduwijekoon@outlook.com
