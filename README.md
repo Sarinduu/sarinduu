@@ -28,7 +28,7 @@
 
 -------------------
 
-<div id="heading">
+<div id="heading" align="center">
 <!--   <ul align="center"> -->
     <summary>
       <h2 style="display: inline-block">
