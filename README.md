@@ -29,17 +29,17 @@
 -------------------
 
 <div id="heading">
-  <ul align="center">
+<!--   <ul align="center"> -->
     <summary>
       <h2 style="display: inline-block">
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
-        &emsp;
+<!--         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+        &emsp; -->
         <b> Languages and Tools </b>
-        &emsp;
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+<!--         &emsp;
+        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> -->
       </h2>
     </summary>
-  </ul>
+<!--   </ul> -->
 </div>
 
 <p align="center">
@@ -56,11 +56,11 @@
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">
-        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60">
-        &emsp;
+<!--         <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60">
+        &emsp; -->
         <b> Connect With Me </b>
-        &emsp;
-        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60">
+<!--         &emsp;
+        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> -->
       </h2>
     </summary>
   </ul>
@@ -89,11 +89,11 @@
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>
-        &emsp;
+<!--         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>
+        &emsp; -->
         <b> Github Stats </b>
-        &emsp;
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>
+<!--         &emsp;
+        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> -->
       </h2>
     </summary>
   </ul>
