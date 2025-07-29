@@ -14,7 +14,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on a web-based game development
+- 🔭 I’m currently working on a e-commerce website
 <br>
 
 - 🌱 I’m currently learning next.js
