@@ -1,145 +1,137 @@
-<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> </p> -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=500&color=F7A94E&center=true&vCenter=true&random=false&width=500&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Sarindu+Wijekoon;Full-stack+developer+;Undergraduate+Software+Engineer"></a>
-   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-</p>
-<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> </p> -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sarinduu&label=Profile%20views&color=f69f3c&style=flat" alt="sarinduu"/> </p>
+<div align="center">
 
+[![Browser Header](https://readmewidgets.sarindu.site/api/browser?url=sarindu.dev)](https://www.sarindu.site)
 
-<img  align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br />
 
-<br>
-<br>
-<br>
+Hello, I'm **Sarindu**
 
-- 🔭 I’m currently working on a e-commerce website
-<br>
+![Typing Titles](https://readmewidgets.sarindu.site/api/typing?text=Software%20Engineer%7CFull-Stack%20Developer&duration=6)
 
-- 🌱 I’m currently learning next.js
-<br>
+Turning ideas into thoughtful digital products and reliable, real-world solutions.
 
-- 📫 How to reach me: sarinduwijekoon@outlook.com
+`> focus: frontend + full-stack development`<br />
+`> currently working on: portfolio site`<br />
+`> currently learning: .NET`
 
-<br>
-<br>
-<br>
+<br />
 
--------------------
-
-<div id="heading">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-<!--         <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
-        &emsp; -->
-        <b> Languages and Tools </b>
-<!--         &emsp;
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> -->
-      </h2>
-    </summary>
-  </ul>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vscode,postman,figma,firebase,html,css,discord,java,js,mysql,github,eclipse,firebase,idea,kotlin,mysql,vite&perline=15" />
-  </a>
-   <!--- git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode-->
-</p>
-<br>
+<div align="center">
 
--------------------
+![Tech Stack](https://readmewidgets.sarindu.site/api/title?text=Tech%20Stack)
 
-<div id="heading">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-<!--         <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60">
-        &emsp; -->
-        <b> Connect With Me </b>
-<!--         &emsp;
-        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> -->
-      </h2>
-    </summary>
-  </ul>
 </div>
 
-<p align="center">
-&emsp;
-<a href="https://www.linkedin.com/in/sarindu-wijekoon-9a6b1b216" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-&emsp;
-<a href="https://x.com/wijekoonsarindu" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
-&emsp;
-<a href="https://www.instagram.com/sarindu._" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-&emsp;
-<a href="https://discord.gg" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
-<br>
-<br>
-  
--------------------
+<div align="center">
 
-<div id="heading">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-<!--         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>
-        &emsp; -->
-        <b> Github Stats </b>
-<!--         &emsp;
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> -->
-      </h2>
-    </summary>
-  </ul>
+![Languages](https://readmewidgets.sarindu.site/api/subtitle?text=Languages)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" height="38" width="38" />
+
+![Frontend](https://readmewidgets.sarindu.site/api/subtitle?text=Frontend)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="38" width="38" />
+
+![Backend and APIs](https://readmewidgets.sarindu.site/api/subtitle?text=Backend%20and%20APIs)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" title="Express.js" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="REST API" title="REST API" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" height="38" width="38" />
+
+![Databases](https://readmewidgets.sarindu.site/api/subtitle?text=Databases)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="38" width="38" />
+
+![Tools and Platforms](https://readmewidgets.sarindu.site/api/subtitle?text=Tools%20and%20Platforms)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="CI/CD" title="GitHub Actions / CI/CD" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" height="38" width="38" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="38" width="38" />
+
 </div>
 
-<!--- stats (start) -->
-<p align="center">
-<!--- trophy (start) -->
-  <div align=center >
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img width="1000" align="center" src="https://github-profile-trophy.vercel.app/?username=sarinduu&theme=gruvbox&margin-w=15&margin-h=15" alt="TROPHY" />
-    </a>
+<br />
+<br />
+
+<div align="center">
+
+![Find Me Online](https://readmewidgets.sarindu.site/api/title?text=Find%20Me%20Online)
+
 </div>
-<!--- trophy (end) -->
- <br></br>
-  <table align=center>
-    <tr border="none">
-      <td width="600" align="center">
-        <br></br>
-        <img  align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=sarinduu&theme=darcula&show_icons=true&count_private=true" />
-        <br></br>
-        <img  align="center" width="500" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sarinduu&theme=darcula&hide_border=false" /> 
-        <br></br>
-      </td>
 
-  <td width="400" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sarinduu&theme=darcula&hide_border=false&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
+<div align="center">
 
-</p>        
-<!--- stats (end) -->
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.linkedin.com/in/sarindu-wijekoon">
+        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="40" width="40" /><br />
+        <sub><strong>LinkedIn</strong></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.sarindu.site">
+        <img src="https://cdn.simpleicons.org/vercel/345D57" alt="Portfolio" height="40" width="40" /><br />
+        <sub><strong>Portfolio</strong></sub>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.instagram.com/sarindu.me">
+        <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="40" width="40" /><br />
+        <sub><strong>Instagram</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**Sarinduu/sarinduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<a href="mailto:sarinduwijekoon@outlook.com" title="Start a conversation">
+  <img src="./assets/email-cta.svg" width="148" alt="Contact Me" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br />
+<br />
 
--->
+</div>
+
+<div align="center">
+
+![GitHub Activity](https://readmewidgets.sarindu.site/api/title?text=GitHub%20Activity)
+
+</div>
+
+<div align="center">
+
+![Under Construction](./assets/under-construction.svg)
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+![README Footer](https://readmewidgets.sarindu.site/api/footer?text=Keep%20building.%20Keep%20learning.)
+
+</div>
