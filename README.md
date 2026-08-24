@@ -81,8 +81,8 @@ Turning ideas into thoughtful digital products and reliable, real-world solution
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sarindu-wijekoon"><img src="./assets/linkedin.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.sarindu.site"><img src="./assets/portfolio.svg" width="56" height="55" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sarindu-wijekoon"><img src="./assets/linkedin.svg" width="55" height="55" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.sarindu.site"><img src="./assets/portfolio.svg" width="55" height="55" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sarinduwijekoon@outlook.com"><img src="./assets/gmail.svg" width="55" height="55" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sarindu.me"><img src="./assets/instagram.svg" width="55" height="55" alt="Instagram" /></a>
 
