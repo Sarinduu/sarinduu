@@ -100,7 +100,7 @@ Turning ideas into thoughtful digital products and reliable, real-world solution
 
 <div align="center">
 
-![Under Construction](./assets/under-construction.svg)
+![GitHub Statistics](https://readmewidgets.sarindu.site/api/github/combined?username=sarinduu)
 
 </div>
 
