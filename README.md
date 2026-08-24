@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Browser Header](https://readmewidgets.sarindu.site/api/browser?url=sarindu.dev)](https://www.sarindu.site)
+[![Browser Header](https://readmewidgets.sarindu.site/api/browser?url=sarindu.site)](https://www.sarindu.site)
 
 <br />
 
@@ -81,34 +81,11 @@ Turning ideas into thoughtful digital products and reliable, real-world solution
 
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.linkedin.com/in/sarindu-wijekoon">
-        <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="40" width="40" /><br />
-        <sub><strong>LinkedIn</strong></sub>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.sarindu.site">
-        <img src="https://cdn.simpleicons.org/vercel/345D57" alt="Portfolio" height="40" width="40" /><br />
-        <sub><strong>Portfolio</strong></sub>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.instagram.com/sarindu.me">
-        <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="40" width="40" /><br />
-        <sub><strong>Instagram</strong></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/sarindu-wijekoon"><img src="./assets/linkedin.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.sarindu.site"><img src="./assets/portfolio.svg" width="56" height="55" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sarinduwijekoon@outlook.com"><img src="./assets/gmail.svg" width="55" height="55" alt="Email" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/sarindu.me"><img src="./assets/instagram.svg" width="55" height="55" alt="Instagram" /></a>
 
-<br />
-
-<a href="mailto:sarinduwijekoon@outlook.com" title="Start a conversation">
-  <img src="./assets/email-cta.svg" width="148" alt="Contact Me" />
-</a>
 
 <br />
 <br />
